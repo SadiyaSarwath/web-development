@@ -1,0 +1,30 @@
+.heading {
+    background-color: rgb(95, 181, 214);
+    color: rgb(15, 15, 15);
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#cd {
+    border: 8px inline;
+    border-color: rgb(19, 18, 18);
+    border-radius: 10%;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(211, 166, 211);
+}
+
+.head1 {
+    padding: 25px;
+    background-color: rgb(10, 217, 245);
+}
+
+.button1 {
+    background-color: rgb(12, 209, 176);
+}
+
+.center {
+    margin-left: 110px;
+}
