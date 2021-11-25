@@ -1,0 +1,51 @@
+* {
+    margin: 5px;
+    padding: 30px;
+    background-color: darkblue;
+}
+
+.heading {
+    background-color: blue;
+    color: rgb(8, 8, 8);
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 50%;
+    text-align: center;
+    text-shadow: black 1px 4px;
+}
+
+#table1 {
+    border: 8px solid;
+    border-color: deeppink;
+    border-radius: 10%;
+    padding: 50px;
+    margin: auto;
+    background-color: fuchsia;
+    transform: skewX(10deg);
+}
+
+.data1 {
+    border: 8px double blue;
+    padding: 25px;
+    background-color: rgb(120, 178, 216);
+}
+
+.header1 {
+    border: 8px dotted;
+    margin: 25px;
+    background-color: rgb(146, 12, 146);
+}
+
+div {
+    width: 50px;
+    height: 50px;
+    background-color: darkcyan;
+    transition: width 3s;
+    transition-delay: 2s;
+}
+
+div:hover {
+    width: 50%;
+    background-color: deeppink;
+}
